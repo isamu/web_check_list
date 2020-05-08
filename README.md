@@ -75,5 +75,5 @@
   
 ## Related document
 
-https://github.com/miya0001/Front-End-Checklist
-https://qiita.com/katzueno/items/d0ee54dc7919bd21ef90
+ - https://github.com/miya0001/Front-End-Checklist
+ - https://qiita.com/katzueno/items/d0ee54dc7919bd21ef90
