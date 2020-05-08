@@ -1,5 +1,13 @@
 # Check list for publishing web like React and Vue.js web apps
 
+## Basic feature
+ - favicon
+ - 404 page
+ - Check image upload size
+ - Account
+  - Password reset
+  - Policy
+
 ## Share feature 
  - copy url
  - QR code
@@ -12,7 +20,18 @@
 ## i18n
  - Currency
  - Date
- 
+ - Set default language
+   - navigator.language
+   - accept-language
+ - Change languages by user side
+
+## Payment
+  - Test
+    - normal cases
+    - error cases
+  - Cancel operation/feature
+  - Tax
+
 ## Tools
  - Google analytics
  - Correct bugs from users
@@ -22,10 +41,14 @@
   - User document
   - Operation manual
   
-## Community
+## Community/User support
   - User group on Facebook
   - User support form
+  - Setup email/SNS
 
 ## PR
   - SNS (fb, tw, instagram)
   - Press release
+  
+## CDN
+  TBD
