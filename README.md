@@ -67,5 +67,8 @@
   - SNS (fb, tw, instagram)
   - Press release
   
+## Security
+  TBD
+
 ## CDN
   TBD
