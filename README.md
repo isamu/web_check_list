@@ -47,6 +47,7 @@
 ## Tools
  - Google analytics
  - Correct bugs from users
+    - [see stackoverflow](https://stackoverflow.com/questions/21403895/does-a-crashlytics-like-service-for-web-app-exists)
 
 ## Document
   - Terms and conditions
