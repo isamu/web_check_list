@@ -1,5 +1,10 @@
 # Check list for publishing web like React and Vue.js web apps
 
+## Share feature 
+ - copy url
+ - QR code
+ - SNS - twitter, fb
+ 
 ## OGP
  - check index.html
  - check each pages which you set OGP by Functions
