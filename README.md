@@ -28,6 +28,10 @@
 ## OGP
  - check index.html
  - check each pages which you set OGP by Functions
+ - OGP debugger
+   - https://developers.facebook.com/tools/debug/
+ - Twitter card
+   - https://cards-dev.twitter.com/validator
  
 ## i18n
  - Currency
