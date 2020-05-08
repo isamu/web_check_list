@@ -5,11 +5,15 @@
  - 404 page
  - Image
    - Check image upload size
- - Account
-   - Password reset
-   - MFA
- - Tests
-   - PC/Mac 
+## Account
+  - login
+    - email
+    - SMS
+    - SNS (OGO)
+  - Password reset
+  - MFA
+## Tests
+  - PC/Mac 
      - Chrome/FireFox/Safari
    - Android smart phone
    - Android tablet
