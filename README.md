@@ -8,7 +8,7 @@
  - Account
    - Password reset
    - MFA
- - Test
+ - Tests
    - PC/Mac 
      - Chrome/FireFox/Safari
    - Android smart phone
@@ -17,7 +17,7 @@
    - iPhone
 
 ## Share feature 
- - copy url
+ - Copy url
  - QR code
  - SNS - twitter, fb
  
