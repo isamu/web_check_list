@@ -3,10 +3,18 @@
 ## Basic feature
  - favicon
  - 404 page
- - Check image upload size
+ - Image
+   - Check image upload size
  - Account
-  - Password reset
-  - Policy
+   - Password reset
+   - MFA
+ - Test
+   - PC/Mac 
+     - Chrome/FireFox/Safari
+   - Android smart phone
+   - Android tablet
+   - iPad
+   - iPhone
 
 ## Share feature 
  - copy url
