@@ -47,11 +47,13 @@
     - error cases
   - Cancel operation/feature
   - Tax
+  - Card Brands / Visa, Master, AMEX, JCB
 
 ## Tools
  - Google analytics
  - Correct bugs from users
     - [see stackoverflow](https://stackoverflow.com/questions/21403895/does-a-crashlytics-like-service-for-web-app-exists)
+    - sentry.io
 
 ## Document
   - Terms and conditions
