@@ -9,7 +9,7 @@
   - login
     - email
     - SMS
-    - SNS (OGO)
+    - SNS (OAuth)
   - Password reset
   - MFA
 ## Tests
