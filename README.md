@@ -57,8 +57,10 @@
 
 ## Document
   - Terms and conditions
+  - Privacy Policy
   - User document
   - Operation manual
+  - GDPR, CCPA
   
 ## Community/User support
   - User group on Facebook
