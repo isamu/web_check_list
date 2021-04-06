@@ -19,11 +19,13 @@
    - Android tablet
    - iPad
    - iPhone
+   - InAppBrowser
+      - Facebook, Line, Twitter 
 
 ## Share feature 
  - Copy url
  - QR code
- - SNS - twitter, fb
+ - SNS - twitter, fb, Line
  
 ## OGP
  - check index.html
