@@ -5,6 +5,8 @@
  - 404 page
  - Image
    - Check image upload size
+ - DateTime format / locale / timezone
+ 
 ## Account
   - login
     - email
